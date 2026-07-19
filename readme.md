@@ -28,7 +28,7 @@ You'll need Node.js 18 or newer.
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/github-insights-mcp.git
-cd github-insights-mcp
+cd git-mcp
 npm install
 npm run build
 ```
